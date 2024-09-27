@@ -1,0 +1,26 @@
+body {
+    background-color: #171f2a;
+    text-align: center;
+    padding: 0 4%;
+}
+
+#pixTitle {
+    color: white;
+    text-align: center;
+}
+
+#mypix {
+    font-family: verdana;
+    font-size: 30px;
+    color: white;
+}     
+
+#pixColor{
+    border-radius: 20px;
+}
+
+#pixbutton{
+    font-family: verdana;
+    font-size: 30px;
+    padding: 10px;
+}
